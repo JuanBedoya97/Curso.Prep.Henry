@@ -1,0 +1,28 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+    Una variable es algo que cambia segun el valor que se le asigne.
+    Por ejemplo una mesada puede ser una variable, una semana puede ser de 10 pesos y la siguiente 
+    puede ser de 5 pesos. En la programacion pueden haber diferentes tipos de variables.
+
+	* Strings
+    Son un tipo de variable que se toma como caracteres. Por ejemplo "perro" puede ser un string, pero no necesariamente tiene que estar compuestas por letras.
+    Tambien puede ser un numero , siempre y cuando se declare el numero como un string.
+    
+	* Funciones (argumentos, `return`)
+    Una funcion es como una maquina , se le puede meter cosas (argumentos) y el te va devolver un producto terminado .
+    Dependiendo de las cosas que le metas , te puede retornar algo diferente.
+	* Declaraciones `if`
+    
+    Una declaracion if , es una pregunta que puede tener uno de dos resultados, verdadero o falso segun la condicion que se le pregunte.
+    Por ejemplo si el perro esta sucio, entonces bañelo. Esta seria la condicion verdadero.
+
+    Si no, entonces no haga nada. Esta es la condicion falso.
+
+	* Valores booleanos (`true`, `false`)
+
+    Los valores booleanos son estados. Por ejemplo un valor booleano puede ser 1(verdadero) o 0(falso).
+
+    Un carro podria tener dos botones uno que diga "1" y el otro que diga "0".
+    Con "1" el carro se mueve y con "0" se queda frenado.
+
