@@ -1,0 +1,20 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+For es un procedimiento que se repite tantas veces siempre y cuando una condicion sea verdad.
+Por ejemplo puede ser como un helado. Mientras el helado exista, entonces vamos a morderlo hasta que ya
+no este.
+
+Los simbolos que se ven son y, o, ó no.
+
+El primero se utiliza cuando una cierta cantidad de afirmaciones se cumplan para poder proceder
+con una accion como por ejemplo revisar si ya me bañe,
+y si ya me cepille los dientes. De lo contrario no puedo salir de la casa
+
+El segundo es similar pero solo se necesita que una accion se cumpla.
+Por ejemplo para poder comer yo puedo o echar sal o no hacerlo o echar pimienta.
+
+Y por ultimo , no es una afirmacion que me niega otra. 
+Hay que tener en cuenta que una doble negacion resulta siendo una afirmacion.
